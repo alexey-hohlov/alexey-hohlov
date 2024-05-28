@@ -6,4 +6,4 @@
 
 Вы можете подробнее ознакомиться с моими навыками, а также найти контакты для связи со мной на  ➡️  **[моем сайте](https://vova-pol.github.io/portfolio)** 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexey-hohlov)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexey-hohlov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
