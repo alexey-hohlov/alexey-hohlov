@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there my name is Alexey👋
 
+- 👨‍💻 I have been engaged in front-end development since 2022
+- 
 <!--
 **alexey-hohlov/alexey-hohlov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
