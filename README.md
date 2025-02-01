@@ -7,6 +7,7 @@
 |----------------|:---------:|
 | По левому краю | По центру |
 | текст | текст |
+|**lang**| JavaScript/TypeScript |
 
 **lang**: JavaScript/TypeScript<br/>
 **frameworks**: React, Vue<br/>
