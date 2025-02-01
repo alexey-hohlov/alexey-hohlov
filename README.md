@@ -4,9 +4,10 @@
 💻 Пишу на React, Vue и TypeScript<br/>
 
 |**lang**| текст |
-| По левому краю | По центру |
-| текст | текст |
-|**lang**| JavaScript/TypeScript |
+|----------------|:---------:|
+|**lang**| текст |
+|**lang**| текст |
+|**lang**| текст |
 
 **lang**: JavaScript/TypeScript<br/>
 **frameworks**: React, Vue<br/>
