@@ -3,12 +3,6 @@
 👨‍💻 Я занимаюсь frontend разработкой с 2022 года<br/>
 💻 Пишу на React, Vue и TypeScript<br/>
 
-|**lang**| текст |
-|----------------|:---------:|
-|**lang**| текст |
-|**lang**| текст |
-|**lang**| текст |
-
 **lang**: JavaScript/TypeScript<br/>
 **frameworks**: React, Vue<br/>
 **state**: Redux. Redux-Toolkit, Pinia<br/>
