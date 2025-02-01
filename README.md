@@ -3,7 +3,7 @@
 👨‍💻 Я занимаюсь frontend разработкой с 2022 года<br/>
 💻 Пишу на React, Vue и TypeScript<br/>
 
-# Lang: JavaScritpt/TypeScript
+### Lang: JavaScritpt/TypeScript
 # Frameworks: React, Vue
 🤖 Владею такими инструментами как: Framer Motion, Redux Toolkit, Pinia, React Router Dom, Vue Router, Axios, React Hook Form, Tailwind CSS и т.д.<br/>
 
