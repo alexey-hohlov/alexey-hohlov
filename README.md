@@ -3,14 +3,14 @@
 👨‍💻 Я занимаюсь frontend разработкой с 2022 года<br/>
 💻 Пишу на React, Vue и TypeScript<br/>
 
-lang: JavaScript/TypeScript
-frameworks: React, Vue
-state: Redux. Redux-Toolkit, Pinia
-styles: css, sass, scss, TailwindCSS
-routing: React Router, Vue Router
-forms: React Hook Form
-animations: Framer Motion, React Transition Group, Vue Transition, css
-api: Axios
+lang: JavaScript/TypeScript<br/>
+frameworks: React, Vue<br/>
+state: Redux. Redux-Toolkit, Pinia<br/>
+styles: css, sass, scss, TailwindCSS<br/>
+routing: React Router, Vue Router<br/>
+forms: React Hook Form<br/>
+animations: Framer Motion, React Transition Group, Vue Transition, css<br/>
+api: Axios<br/>
 
 Вы можете подробнее ознакомиться с моими навыками, а также найти контакты для связи со мной на [моем сайте](https://alexey-hohlov.github.io/)➡️ 
 
