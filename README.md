@@ -3,8 +3,8 @@
 👨‍💻 Я занимаюсь frontend разработкой с 2022 года<br/>
 💻 Пишу на React, Vue и TypeScript<br/>
 
-#Lang: JavaScritpt/TypeScript
-#Frameworks: React, Vue
+# Lang: JavaScritpt/TypeScript
+# Frameworks: React, Vue
 🤖 Владею такими инструментами как: Framer Motion, Redux Toolkit, Pinia, React Router Dom, Vue Router, Axios, React Hook Form, Tailwind CSS и т.д.<br/>
 
 Вы можете подробнее ознакомиться с моими навыками, а также найти контакты для связи со мной на [моем сайте](https://alexey-hohlov.github.io/)➡️ 
