@@ -36,7 +36,12 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sublime" height="40" alt="sublime logo"  />
 </div>
 
+###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexey-hohlov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexey-hohlov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
