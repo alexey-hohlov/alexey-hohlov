@@ -42,4 +42,8 @@
 
 ###
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexey-hohlov&layout=compact">
+</p>
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexey-hohlov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
