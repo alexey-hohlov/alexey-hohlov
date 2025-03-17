@@ -12,5 +12,17 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pinia" height="40" alt="pinia logo"  />
+</div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexey-hohlov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
