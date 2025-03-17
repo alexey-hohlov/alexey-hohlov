@@ -7,6 +7,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
@@ -22,6 +24,8 @@
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pinia" height="40" alt="pinia logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
 
 
