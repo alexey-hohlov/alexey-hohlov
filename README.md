@@ -1,4 +1,4 @@
-<h1 align="center">🐉 Alexey Hohlov / Frontend Developer </h1>
+<h1 align="center">🐈‍⬛ Alexey Hohlov / Frontend Developer </h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
