@@ -43,5 +43,5 @@
 ###
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=alexey-hohlov&layout=compact">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=alexey-hohlov&layout=compact&langs_count=6&theme=dark_github">
 </p>
